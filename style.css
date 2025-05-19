@@ -480,9 +480,9 @@ footer li {
     padding-left: 1rem;
   }
   .offcanvas.offcanvas-end {
-    width: 230px;
-    max-width: 80vw;
-  }
+  width: 250px;
+  max-width: 90vw;
+}
 }
 
 /* Phone */
@@ -511,6 +511,6 @@ footer li {
 
   .offcanvas.offcanvas-end {
     width: 220px;
-    max-width: 90vw;
+    max-width: 95vw;
   }
 }
